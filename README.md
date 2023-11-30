@@ -16,5 +16,7 @@ It consists of the following libraries:
     * [udp-client-c](https://github.com/piot/udp-client-c). for guise-session-client-c and guise-client-c.
   * [udp-server-c](https://github.com/piot/udp-server-c). receiving and sending UDP datagrams.
 * [relay-client-c](https://github.com/piot/relay-client-c). The client library that can request listen, connect and send and receive datagrams.
+* [relay-client-udp-c](https://github.com/piot/relay-client-udp-c). Client library using UDP transport.
+* [relay-client-repl-c](https://github.com/piot/relay-client-repl-c). Client REPL command line application, mainly used for testing.
 
 Check out the details of the [relay protocol](https://github.com/piot/relay-serialize-c/blob/main/docs/index.adoc).
